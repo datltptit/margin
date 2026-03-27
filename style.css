@@ -11,4 +11,8 @@ body {
 }
 .container {
   margin: 0 auto;
+  width: 700px;
+  background-color: rgb(177, 219, 220);
+  /* căn chỉnh tài liệu */
+  text-align: center;
 }
