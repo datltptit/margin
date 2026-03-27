@@ -16,3 +16,6 @@ body {
   /* căn chỉnh tài liệu */
   text-align: center;
 }
+img {
+  max-width: 600px;
+}
